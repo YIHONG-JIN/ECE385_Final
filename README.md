@@ -1,2 +1,2 @@
 # ECE385_Final
-# Tetris
+Classic Tetris Game Based on FPGA
